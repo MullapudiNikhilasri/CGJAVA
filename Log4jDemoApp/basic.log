@@ -1,0 +1,16 @@
+2021-09-07 15:20:45,439 INFO [DemoLog4j] - Logging information for DemoLog4j
+2021-09-07 15:20:45,440 DEBUG [DemoLog4j] - Code debugging started
+2021-09-07 15:20:45,441 WARN [DemoLog4j] - This is last time warning
+2021-09-07 15:20:45,441 ERROR [DemoLog4j] - Error occured due to false value
+2021-09-07 15:21:37,337 INFO [DemoLog4j] - Logging information for DemoLog4j
+2021-09-07 15:21:37,338 DEBUG [DemoLog4j] - Code debugging started
+2021-09-07 15:21:37,338 WARN [DemoLog4j] - This is last time warning
+2021-09-07 15:21:37,338 ERROR [DemoLog4j] - Error occured due to false value
+2021-09-07 15:23:56,705 INFO [DemoLog4j] - Logging information for DemoLog4j
+2021-09-07 15:23:56,705 DEBUG [DemoLog4j] - Code debugging started
+2021-09-07 15:23:56,708 WARN [DemoLog4j] - This is last time warning
+2021-09-07 15:23:56,708 ERROR [DemoLog4j] - Error occured due to false value
+2021-09-07 15:33:12,186 INFO [DemoLog4j] - Logging information for DemoLog4j
+2021-09-07 15:33:12,187 DEBUG [DemoLog4j] - Code debugging started
+2021-09-07 15:33:12,187 WARN [DemoLog4j] - This is last time warning
+2021-09-07 15:33:12,187 ERROR [DemoLog4j] - Error occured due to false value
